@@ -8,7 +8,7 @@ nav_order: 1
 # "AppleIntelCPUPowerManagement" Kernel Panic
 
 <p align="center">
-  <img width="100%" src="../../../../assets/VBoxKernelPanic1.png">
+  <img width="100%" src="../../../assets/VBoxKernelPanic1.png">
 </p>
 
 
