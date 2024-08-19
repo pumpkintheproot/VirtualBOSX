@@ -1,0 +1,81 @@
+title: DarwinKVM Docs
+description: An advanced guide for running Mac OS / Mac OS X / macOS on QEMU/KVM with GPU Passthrough.
+theme: just-the-docs
+color_scheme: custom
+favicon_ico: "/assets/favicon.ico"
+nav_sort: case_sensitive
+
+url: https://royalgraphx.github.io/DarwinKVM/docs
+
+callouts_opacity: 0.4
+callouts:
+  highlight:
+    color: canary
+  important:
+    title: Important
+    color: blueish
+  new:
+    title: New
+    color: teal
+  note:
+    title: Note
+    color: grey-lt
+  warning:
+    title: Warning
+    color: reddish
+  headsup:
+    title: Heads Up!
+    color: heads-up
+
+# set up collections
+
+# Define Jekyll collections
+collections:
+  infocenter:
+    permalink: "/:collection/:path/"
+    output: true
+  installguides:
+    permalink: "/:collection/:path/"
+    output: true
+  writeups:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    infocenter:
+      name: INFO CENTER
+      nav_exclude: false
+      nav_fold: false
+      search_exclude: false
+    installguides:
+      name: INSTALL GUIDES
+      nav_exclude: false
+      nav_fold: false
+      search_exclude: false
+    writeups:
+      name: WRITE UPS
+      nav_exclude: false
+      nav_fold: false
+      search_exclude: false
+
+# Set up includes
+include:
+ - docs
+ - _sass
+ - _layouts
+ - _includes
+
+# External navigation links
+nav_external_links:
+  - title: Support via Discord
+    url: https://discord.gg/ryQFC8Vk7b
+    hide_icon: false
+
+# Aux links for the upper right navigation
+aux_links:
+  "View the Repo!":
+    - "//github.com/royalgraphx/DarwinKVM/tree/main"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
