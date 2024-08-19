@@ -6,7 +6,7 @@ has_children: true
 ---
 
 <p align="center">
-  <img width="650" height="200" src="../../assets/logo.png">
+  <img width="100%" src="../../assets/logo.png">
 </p>
 
 "Why the FUCK doesn't my shit work dude? What the fuck is this? Some bullshit fucking shit fuck or something? You fucking suck as a fucking person and deserve to fucking die you fucking fascist!"
