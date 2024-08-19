@@ -16,7 +16,7 @@ Hit `Start`, and pray to God what you just did doesn't cause a mass genocide.
   <img width="100%" src="../../assets/VerboseBooting.png">
 </p>
 Good, hopefully you should see this too. This is verbose booting Mac OS X, and as long as it isn't frozen on some text with lots of codes that you don't understand, you should be good to go, and shortly soonafter you should be in the installer!
-If you do see exactly that, that is something that you should consider seeing a doctor for. No, seriously, if you do, head over to the <a href="../../writeups/01-KernelPanics/index">Troubleshooting</a> section.. God help us all.
+If you do see exactly that, that is something that you should consider seeing a doctor for. No, seriously, if you do, head over to the <a href="../../writeups/01-KernelPanics/index.md">Troubleshooting</a> section.. God help us all.
  <p align="center">
   <img width="100%" src="../../assets/OSXInstaller.png">
 </p>
