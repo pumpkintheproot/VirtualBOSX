@@ -2,7 +2,7 @@
 layout: default
 title: About This Project
 parent: Welcome to VirtualBOSX!
-nav_order: 1
+nav_order: 0
 ---
 
 <p align="center">
