@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Actually Fixing The Problem
-parent: Troubleshooting Kernel Panics
-nav_order: 3
+parent: Halp Why No Work????
+nav_order: 1
 ---
 
 # "AppleIntelCPUPowerManagement" Kernel Panic
