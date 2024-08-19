@@ -176,4 +176,4 @@ Yayy! Okay, that was THE last table. Last table ever, actually. Good luck seeing
   <img width="100%" src="../../assets/CmdDone.png">
 </p>
 
-## After doing the commands, continue onto the <a href="03-Installing">Installation</a> section!
+## After doing the commands, continue onto the <a href="03-Installing.md">Installation</a> section!
