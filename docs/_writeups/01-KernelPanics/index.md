@@ -14,4 +14,4 @@ has_children: true
 
 I've only got one page because it is literally the only issue I've had. Live laugh love.
 
-This write-up only explains 1 singular kernel panic.. For it, go to the  <a href="_writeups/01-KernelPanics/index/01-Intro.md">Kernel Panics</a> section
+This write-up only explains 1 singular kernel panic.. For it, go to the  <a href="/index/01-Intro.md">Kernel Panics</a> section
