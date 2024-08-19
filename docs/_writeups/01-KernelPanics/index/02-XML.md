@@ -40,11 +40,11 @@ To fix it, follow these steps:
 1. In VirtualBox, go to the other virtual machine with a working Mac OS X install, and open `Settings` for that machine.
 2. On the `Storage` tab, add another hard disk by pressing the little hard drive icon next to `Controller: SATA`
 <p align="center">
-  <img width="100%" src="../../../../assets/VBoxAddHardDisk.png">
+  <img width="100%" src="../../../assets/VBoxAddHardDisk.png">
 </p>
 3. Choose the disk image of the non-working virtual machine, and hit `OK`
 <p align="center">
-  <img width="100%" src="../../../../assets/VBoxFinishedNewDisk.png">
+  <img width="100%" src="../../../assets/VBoxFinishedNewDisk.png">
 </p>
 4. Start the virtual machine, and boot into Mac OS X.
 5. With the new hard drive attached, you should have your other hard disk on the desktop, double click it to open Finder.
