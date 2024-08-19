@@ -2,7 +2,7 @@
 layout: default
 title: Installing VirtualBox
 parent: Install
-nav_order: 1
+nav_order: 0
 ---
 
 <p align="center">
