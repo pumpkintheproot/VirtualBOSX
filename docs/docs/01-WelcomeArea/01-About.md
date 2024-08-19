@@ -34,4 +34,4 @@ nav_order: 0
 
 <h5 align="center">Make sure anything you may copy and paste and/or follow in this guide is followed to the exact letter! VirtualBox can be very finnicky with Mac OS X and likely, if you don't, you'll be scratching your head on "why no work?" </h5>
 
-<h2 align="center">You can now proceed to the <a href="../02-Install/00-GettingVirtualbox">Install</a> section!</h2>
+<h2 align="center">You can now proceed to the <a href="../02-Install/00-GettingVirtualbox.md">Install</a> section!</h2>
