@@ -2,7 +2,7 @@
 layout: default
 title: Introducing VirtualBox
 parent: Install
-nav_order: 2
+nav_order: 1
 ---
 
 # The VirtualBox User Interface
