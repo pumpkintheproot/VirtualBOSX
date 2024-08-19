@@ -2,7 +2,7 @@
 layout: default
 title:  Installing The Damn Thing
 parent: Install
-nav_order: 4
+nav_order: 3
 ---
 
 
