@@ -2,7 +2,7 @@
 layout: default
 title:  Creating the Virtual Machine
 parent: Install
-nav_order: 3
+nav_order: 2
 ---
 
 # Creating the Goddamn Virtual Machine
