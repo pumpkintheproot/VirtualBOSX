@@ -19,4 +19,4 @@ You've also got a nice hot air balloon. They took the tux away. I will never for
 
 Need I say more? Hopefully that should be a nice introduction. Explore on your own. Tinker settings that don't look scary. Don't use VirtualBox to detonate bombs, please. 
 
-<h2 align="center">What a short introduction. Anyways, onto the <a href="02-Creation">Creating the Virtual Machine</a> section!</h2>
+<h2 align="center">What a short introduction. Anyways, onto the <a href="02-Creation.md">Creating the Virtual Machine</a> section!</h2>
