@@ -27,4 +27,4 @@ This hopefully shouldn't take long. Afterwards, just click the file and you'll l
 
 Very simple. Just keep clicking Next until the installer starts (and finishes), that was so easy, wasn't it?
 
-<h2 align="center">If that was easy enough, you can now go to the <a href="01-VBIntroduce">Introducing VirtualBox</a> section</h2>
+<h2 align="center">If that was easy enough, you can now go to the <a href="01-VBIntroduce.md">Introducing VirtualBox</a> section</h2>
