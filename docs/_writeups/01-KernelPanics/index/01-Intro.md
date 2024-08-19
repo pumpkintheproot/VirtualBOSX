@@ -14,4 +14,4 @@ In macOS, there are a lot of reasons a kernel panic might occur. Sometimes, it m
 
 Obviously, in a Virtual Machine, there aren't really things inside that can go wrong. Normally, when a KP happens inside of one, it normally means the operating system, this being Mac OS X, is dumbfounded by your horrible choices and has no idea what to do next. There are really only a certain number of things that can cause one, and since this is not Apple hardware, it's pretty finnicky to avoid.
 
-## You can now continue to the next <a href="01-KernelPanics/index/02-XML.md">page</a>.
+## You can now continue to the next <a href="index/02-XML.md">page</a>.
