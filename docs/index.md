@@ -55,4 +55,4 @@ permalink: /
 
 <h3 class="center">A very simple guide for running Mac OS X on VirtualBox.</h3>
 <h5 class="center">If you run into any issues, you can shoot me a message @ koltontheshek on Discord. </h5>
-<a href="/docs/docs/01-WelcomeArea/01-About">Get Started</a>
+<a href="/docs/01-WelcomeArea/01-About">Get Started</a>
