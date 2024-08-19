@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Kernel Panics
-parent: Troubleshooting Kernel Panics
-nav_order: 1
+parent: Halp Why No Work????
+nav_order: 0
 ---
 
 # Learning about Kernel Panics
